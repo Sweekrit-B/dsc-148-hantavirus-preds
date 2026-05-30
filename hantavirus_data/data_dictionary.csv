@@ -1,0 +1,36 @@
+file,column,dtype,description
+hantavirus_country_yearly.csv,year,int,Calendar year (1993-2026)
+hantavirus_country_yearly.csv,iso3,str,ISO 3166-1 alpha-3 country code
+hantavirus_country_yearly.csv,country,str,Country name
+hantavirus_country_yearly.csv,who_region,str,WHO regional office (AMRO/EURO/WPRO)
+hantavirus_country_yearly.csv,syndrome,str,Disease syndrome: HPS or HFRS
+hantavirus_country_yearly.csv,confirmed_cases,int,Annual confirmed hantavirus cases
+hantavirus_country_yearly.csv,deaths,int,Annual deaths from hantavirus
+hantavirus_country_yearly.csv,case_fatality_rate,float,Case fatality rate (deaths/cases)
+hantavirus_country_yearly.csv,hospitalized,int,Number of hospitalized patients
+hantavirus_country_yearly.csv,icu_admissions,int,ICU admissions count
+hantavirus_country_yearly.csv,human_to_human_cases,int,Documented human-to-human transmission cases
+hantavirus_clinical.csv,patient_id,str,Unique synthetic patient identifier
+hantavirus_clinical.csv,severity,str,Clinical severity: Mild/Moderate/Severe/Critical
+hantavirus_clinical.csv,outcome,str,Patient outcome: Recovered/Deceased
+hantavirus_clinical.csv,ecmo_used,int,Whether ECMO was used (0/1)
+hantavirus_clinical.csv,exposure_type,str,Type of rodent/environmental/contact exposure
+hantavirus_clinical.csv,blood_type,str,Patient blood type (ABO+Rh)
+hantavirus_clinical.csv,viral_load_category,str,Viral load category: Low/Medium/High/Critical
+hantavirus_clinical.csv,days_to_diagnosis,int,Days from symptom onset to confirmed diagnosis
+hantavirus_clinical.csv,treatment_protocol,str,Treatment protocol administered
+hantavirus_clinical.csv,geographic_setting,str,Geographic setting: Urban/Peri-urban/Rural/Remote
+hantavirus_environmental.csv,rodent_abundance_index,float,Normalized rodent population index (0-1)
+hantavirus_environmental.csv,ndvi,float,Normalized Difference Vegetation Index (0-1)
+hantavirus_environmental.csv,deforestation_rate_pct,float,Annual deforestation rate percentage
+hantavirus_environmental.csv,el_nino_oni_index,float,El Niño-Southern Oscillation Oceanic Niño Index
+hantavirus_environmental.csv,mast_year_indicator,int,Mast year indicator for European forests (0/1)
+hantavirus_environmental.csv,land_use_change_pct,float,Annual land use change percentage
+hantavirus_outbreaks.csv,trigger,str,Environmental or social trigger for outbreak
+hantavirus_virus_strains.csv,h2h_transmission,str,Whether human-to-human transmission is documented
+hantavirus_virus_strains.csv,reservoir_host,str,Primary rodent reservoir host species
+hantavirus_genomic_surveillance.csv,sequence_id,str,Unique sequence identifier
+hantavirus_genomic_surveillance.csv,clade,str,Phylogenetic clade assignment
+hantavirus_genomic_surveillance.csv,percent_identity,float,Sequence identity vs reference strain (%)
+hantavirus_therapeutics_pipeline.csv,phase,str,Development phase: Preclinical/Phase 1/Phase 2/Approved
+hantavirus_therapeutics_pipeline.csv,platform,str,Technology platform (DNA/mRNA/mAb/Small molecule)

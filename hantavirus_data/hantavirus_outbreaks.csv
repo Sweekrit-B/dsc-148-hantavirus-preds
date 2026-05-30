@@ -1,0 +1,14 @@
+outbreak_id,year,start_date,end_date,country,region,virus_strain,cases,deaths,cfr,trigger,source,notes
+OB-001,1993,1993-05-01,1993-12-31,USA,"Four Corners, SW USA",Sin Nombre,48,26,0.542,El Niño rodent bloom,CDC MMWR 1993,First recognized HPS outbreak; defined the syndrome
+OB-002,1996,1996-09-01,1997-03-31,Argentina,"El Bolsón, Patagonia",Andes,20,11,0.55,Rural tourism exposure,Padula et al. 1998,First documented human-to-human Andes virus transmission
+OB-003,2000,2000-01-01,2000-06-30,Panama,Los Santos Province,Choclo,22,9,0.409,Agricultural clearing,PAHO 2000,First Central American HPS outbreak
+OB-004,2002,2002-06-01,2002-11-30,Chile,Aysén Region,Andes,15,6,0.4,Logging and rural exposure,Chile MinSalud,Cluster linked to forestry workers
+OB-005,2012,2012-11-01,2013-02-28,Argentina,"Epuyén, Chubut",Andes,32,11,0.344,Community transmission chain,Martínez et al. 2020,Largest documented H2H transmission chain globally
+OB-006,2017,2017-04-01,2017-09-30,Russia,Bashkortostan,Puumala,1800,18,0.01,Mast year vole population surge,Rospotrebnadzor,Record HFRS season in Urals region
+OB-007,2019,2018-11-01,2019-04-30,Argentina,"Epuyén, Chubut",Andes,34,11,0.324,Person-to-person chain in rural community,PAHO/WHO 2019,International alert; confirmed sustained H2H spread
+OB-008,2021,2021-05-01,2021-10-31,Germany,Baden-Württemberg,Puumala,1500,3,0.002,Beech mast year → vole boom,RKI Germany,Record Puumala year in Germany
+OB-009,2023,2023-06-01,2023-09-30,Finland,Ostrobothnia,Puumala,2200,5,0.002,Cyclic vole population peak,THL Finland,Major HFRS season in Finland
+OB-010,2025,2025-03-01,2025-12-31,Americas (8 countries),Pan-American,Multiple,229,59,0.258,El Niño aftermath; environmental shifts,PAHO/WHO 2025,Elevated pan-American HPS season
+OB-011,2026,2026-04-01,2026-05-18,MV Hondius (Argentina→Rotterdam),Cruise ship transatlantic,Andes,13,3,0.231,Rodent exposure pre-boarding in Patagonia,WHO DON May 2026; ECDC May 2026,First maritime hantavirus cluster; 11 confirmed + 2 probable; H2H on vessel; ship arrived Rotterdam May 18; 18 US passengers quarantined in Nebraska; international multi-country contact tracing across 13 nations
+OB-012,2026,2026-01-01,2026-05-09,Chile,Southern Chile (11 regions),Andes,41,14,0.341,Elevated rodent activity post La Niña,Chile MinSalud 2026 (EW18),"Above-average seasonal HPS; 34% CFR (vs 18% in 2025); highest incidence in Aysén, Los Ríos, Ñuble regions"
+OB-013,2026,2025-10-01,2026-05-28,Argentina,Patagonia & Central Argentina,Andes,67,22,0.328,Increased rodent populations; expanded rural tourism,Argentina MinSalud 2026,Elevated 2025-2026 season; increased lethality observed vs prior years; potential link to MV Hondius index case

@@ -1,0 +1,15 @@
+source_id,organization,url,data_type,license,reliability,last_accessed
+SRC-01,World Health Organization (WHO),https://www.who.int/health-topics/hantavirus,"Epidemiological reports, Disease Outbreak News",CC-BY-NC-SA 3.0 IGO,High,2026-05-28
+SRC-02,US CDC,https://www.cdc.gov/hantavirus/,"HPS surveillance, case counts, clinical guidance",Public Domain,High,2026-05-28
+SRC-03,PAHO,https://www.paho.org/en/topics/hantavirus,Americas regional epidemiological updates,CC-BY-NC-SA 3.0 IGO,High,2026-05-28
+SRC-04,ECDC,https://www.ecdc.europa.eu/en/hantavirus-infection,"European surveillance annual reports, MV Hondius updates",ECDC Copyright,High,2026-05-28
+SRC-05,PubMed / NIH,https://pubmed.ncbi.nlm.nih.gov/,"Peer-reviewed literature, clinical studies",Various,High,2026-05-28
+SRC-06,Chile Ministry of Health,https://www.minsal.cl/,"National HPS surveillance bulletins, 2026 EW18 data",Government Open Data,High,2026-05-28
+SRC-07,Argentina Ministry of Health,https://www.argentina.gob.ar/salud,National HPS notifications and outbreak reports,Government Open Data,High,2026-05-28
+SRC-08,Robert Koch Institute (RKI),https://www.rki.de/,German hantavirus surveillance data,Government Open Data,High,2026-05-28
+SRC-09,Chinese CDC,https://www.chinacdc.cn/,HFRS national surveillance reports,Government Open Data,Medium,2026-05-28
+SRC-10,GenBank / NCBI,https://www.ncbi.nlm.nih.gov/genbank/,Genomic sequences for virus strains,Public Domain,High,2026-05-28
+SRC-11,UT Austin - Structural Biology,https://news.utexas.edu/,Andes virus Gn-Gc protein 3D structural maps (March 2026),Academic Research,High,2026-05-28
+SRC-12,Dyadic International / Scripps Research,https://www.dyadic.com/,mAb and vaccine candidate collaboration (May 2026),Commercial,High,2026-05-28
+SRC-13,UK Government (GOV.UK),https://www.gov.uk/,"Hantavirus travel health advisory, MV Hondius response",Open Government Licence v3.0,High,2026-05-28
+SRC-14,La Jolla Institute for Immunology,https://www.lji.org/,B-cell and T-cell immune response to Andes virus,Academic Research,High,2026-05-28

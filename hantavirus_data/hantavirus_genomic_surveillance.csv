@@ -1,0 +1,201 @@
+sequence_id,strain,genbank_accession,collection_date,country,host_species,genome_segment,sequence_length_bp,percent_identity,clade,mutations_noted
+SEQ-0001,Andes (ANDV),A(260001,2026-01-26,Bolivia,Oligoryzomys longicaudatus,S,1873,97.87,South II,"Gn-T64A, RdRp-K1842R, Gc-V620I"
+SEQ-0002,Andes (ANDV),A(210002,2021-10-07,Paraguay,Oligoryzomys longicaudatus,S,1871,97.74,Central,N-E48D
+SEQ-0003,Andes (ANDV),A(140003,2014-08-04,Argentina,Oligoryzomys longicaudatus,S,1904,98.7,North,Gn-D128N
+SEQ-0004,Andes (ANDV),A(150004,2015-05-01,Argentina,Oligoryzomys longicaudatus,M,3679,97.44,Central,Gc-V620I
+SEQ-0005,Andes (ANDV),A(160005,2016-04-20,Bolivia,Oligoryzomys longicaudatus,S,1899,99.33,Central,None
+SEQ-0006,Andes (ANDV),A(110006,2011-06-28,Paraguay,Oligoryzomys longicaudatus,L,6532,98.54,Central,"N-E48D, N-R22K, Gc-S974T"
+SEQ-0007,Andes (ANDV),A(120007,2012-01-23,Bolivia,Oligoryzomys longicaudatus,L,6566,98.58,South II,Gc-V620I
+SEQ-0008,Andes (ANDV),A(150008,2015-07-22,Argentina,Oligoryzomys longicaudatus,S,1896,98.76,South I,"RdRp-K1842R, Gc-S974T"
+SEQ-0009,Andes (ANDV),A(140009,2014-12-11,Bolivia,Oligoryzomys longicaudatus,L,6557,99.86,South I,"N-E48D, Gn-D128N, N-R22K"
+SEQ-0010,Andes (ANDV),A(180010,2018-05-20,Paraguay,Oligoryzomys longicaudatus,L,6574,96.79,Central,"Gn-T64A, N-R22K, Gc-V620I"
+SEQ-0011,Andes (ANDV),A(230011,2023-02-25,Chile,Oligoryzomys longicaudatus,S,1886,97.5,South II,Gn-T64A
+SEQ-0012,Andes (ANDV),A(160012,2016-10-26,Brazil,Oligoryzomys longicaudatus,S,1897,98.72,Central,Gn-T64A
+SEQ-0013,Andes (ANDV),A(120013,2012-01-05,Paraguay,Oligoryzomys longicaudatus,M,3674,99.04,Central,"N-R22K, Gc-V620I"
+SEQ-0014,Andes (ANDV),A(160014,2016-06-18,Argentina,Oligoryzomys longicaudatus,S,1883,96.83,Central,"N-E48D, Gc-S974T, Gc-V620I"
+SEQ-0015,Andes (ANDV),A(180015,2018-12-10,Argentina,Oligoryzomys longicaudatus,S,1900,98.93,South I,Gn-D128N
+SEQ-0016,Andes (ANDV),A(260016,2026-12-26,Chile,Oligoryzomys longicaudatus,S,1875,99.4,Central,RdRp-K1842R
+SEQ-0017,Andes (ANDV),A(260017,2026-01-20,Chile,Oligoryzomys longicaudatus,M,3652,99.17,South II,Gc-V620I
+SEQ-0018,Andes (ANDV),A(100018,2010-12-03,Paraguay,Oligoryzomys longicaudatus,M,3679,96.3,Central,"Gn-D128N, Gc-V620I"
+SEQ-0019,Andes (ANDV),A(140019,2014-02-15,Brazil,Oligoryzomys longicaudatus,M,3683,99.75,South II,"N-E48D, Gn-D128N, Gn-T64A"
+SEQ-0020,Andes (ANDV),A(250020,2025-09-21,Bolivia,Oligoryzomys longicaudatus,S,1898,96.45,South I,N-E48D
+SEQ-0021,Andes (ANDV),A(150021,2015-11-06,Brazil,Oligoryzomys longicaudatus,L,6559,99.71,Central,None
+SEQ-0022,Andes (ANDV),A(170022,2017-06-01,Uruguay,Oligoryzomys longicaudatus,M,3688,97.43,South I,RdRp-K1842R
+SEQ-0023,Andes (ANDV),A(100023,2010-09-04,Uruguay,Oligoryzomys longicaudatus,M,3659,96.51,South I,"N-R22K, Gn-T64A"
+SEQ-0024,Andes (ANDV),A(170024,2017-01-25,Brazil,Oligoryzomys longicaudatus,L,6564,99.02,North,"RdRp-K1842R, Gc-V620I"
+SEQ-0025,Andes (ANDV),A(260025,2026-07-14,Paraguay,Oligoryzomys longicaudatus,S,1902,98.33,Central,"Gn-D128N, Gc-V620I, Gn-T64A"
+SEQ-0026,Andes (ANDV),A(250026,2025-03-05,Chile,Oligoryzomys longicaudatus,M,3688,98.48,North,Gc-V620I
+SEQ-0027,Andes (ANDV),A(120027,2012-05-27,Bolivia,Oligoryzomys longicaudatus,L,6549,96.9,South I,N-E48D
+SEQ-0028,Andes (ANDV),A(200028,2020-02-27,Chile,Oligoryzomys longicaudatus,M,3675,99.37,Central,"N-R22K, Gn-T64A"
+SEQ-0029,Andes (ANDV),A(240029,2024-07-12,Argentina,Oligoryzomys longicaudatus,S,1871,99.22,Central,N-E48D
+SEQ-0030,Andes (ANDV),A(230030,2023-06-15,Chile,Oligoryzomys longicaudatus,M,3654,96.66,South I,"Gn-T64A, RdRp-K1842R"
+SEQ-0031,Andes (ANDV),A(250031,2025-01-23,Chile,Oligoryzomys longicaudatus,M,3672,99.01,North,"Gc-S974T, N-E48D"
+SEQ-0032,Andes (ANDV),A(100032,2010-03-09,Uruguay,Oligoryzomys longicaudatus,M,3667,96.58,South II,None
+SEQ-0033,Andes (ANDV),A(260033,2026-12-02,Chile,Oligoryzomys longicaudatus,M,3674,96.42,South I,Gn-D128N
+SEQ-0034,Andes (ANDV),A(180034,2018-03-28,Brazil,Oligoryzomys longicaudatus,M,3653,97.03,Central,None
+SEQ-0035,Andes (ANDV),A(250035,2025-03-03,Argentina,Oligoryzomys longicaudatus,S,1870,97.58,North,N-R22K
+SEQ-0036,Andes (ANDV),A(260036,2026-06-01,Uruguay,Oligoryzomys longicaudatus,L,6540,98.3,South I,None
+SEQ-0037,Andes (ANDV),A(190037,2019-05-19,Chile,Oligoryzomys longicaudatus,S,1874,97.4,South II,N-R22K
+SEQ-0038,Andes (ANDV),A(250038,2025-03-02,Brazil,Oligoryzomys longicaudatus,L,6565,96.58,North,None
+SEQ-0039,Andes (ANDV),A(160039,2016-01-26,Uruguay,Oligoryzomys longicaudatus,S,1896,98.66,South II,Gc-S974T
+SEQ-0040,Andes (ANDV),A(140040,2014-10-02,Uruguay,Oligoryzomys longicaudatus,S,1879,99.18,South II,"N-R22K, RdRp-K1842R"
+SEQ-0041,Andes (ANDV),A(260041,2026-03-16,Paraguay,Oligoryzomys longicaudatus,M,3652,98.49,North,"Gc-S974T, Gn-T64A"
+SEQ-0042,Andes (ANDV),A(240042,2024-07-01,Bolivia,Oligoryzomys longicaudatus,M,3689,99.57,Central,None
+SEQ-0043,Andes (ANDV),A(230043,2023-09-05,Chile,Oligoryzomys longicaudatus,S,1889,99.38,Central,Gc-V620I
+SEQ-0044,Andes (ANDV),A(100044,2010-01-07,Bolivia,Oligoryzomys longicaudatus,S,1878,97.19,South II,None
+SEQ-0045,Andes (ANDV),A(140045,2014-04-05,Brazil,Oligoryzomys longicaudatus,M,3688,97.87,Central,"Gn-D128N, Gc-S974T"
+SEQ-0046,Andes (ANDV),A(260046,2026-02-10,Bolivia,Oligoryzomys longicaudatus,M,3666,97.44,South I,N-E48D
+SEQ-0047,Andes (ANDV),A(120047,2012-08-03,Brazil,Oligoryzomys longicaudatus,M,3656,98.33,South II,Gc-S974T
+SEQ-0048,Andes (ANDV),A(170048,2017-11-24,Brazil,Oligoryzomys longicaudatus,M,3692,97.21,Central,N-R22K
+SEQ-0049,Andes (ANDV),A(240049,2024-10-04,Paraguay,Oligoryzomys longicaudatus,M,3662,96.49,Central,None
+SEQ-0050,Andes (ANDV),A(260050,2026-07-07,Bolivia,Oligoryzomys longicaudatus,L,6539,96.94,Central,Gc-V620I
+SEQ-0051,Andes (ANDV),A(250051,2025-06-19,Paraguay,Oligoryzomys longicaudatus,L,6540,96.14,North,"Gn-T64A, N-R22K"
+SEQ-0052,Andes (ANDV),A(180052,2018-03-18,Argentina,Oligoryzomys longicaudatus,L,6565,99.67,South II,RdRp-K1842R
+SEQ-0053,Andes (ANDV),A(180053,2018-07-18,Argentina,Oligoryzomys longicaudatus,L,6579,98.08,South II,None
+SEQ-0054,Andes (ANDV),A(180054,2018-08-07,Chile,Oligoryzomys longicaudatus,L,6544,96.21,South I,Gc-V620I
+SEQ-0055,Andes (ANDV),A(260055,2026-06-18,Argentina,Oligoryzomys longicaudatus,M,3668,98.65,South II,None
+SEQ-0056,Sin Nombre (SNV),SN(210056,2021-01-13,Canada,Peromyscus maniculatus,M,3623,99.03,Four Corners,"Gn-S87N, N-T18I"
+SEQ-0057,Sin Nombre (SNV),SN(130057,2013-08-20,USA,Peromyscus maniculatus,M,3659,96.54,Four Corners,"Gn-S87N, Gn-A143V"
+SEQ-0058,Sin Nombre (SNV),SN(200058,2020-03-07,Canada,Peromyscus maniculatus,M,3638,95.4,Western,"Gn-S87N, Gn-A143V"
+SEQ-0059,Sin Nombre (SNV),SN(170059,2017-09-21,Canada,Peromyscus maniculatus,S,1712,99.14,Four Corners,"RdRp-H1654Y, Gc-V598L, Gn-A143V"
+SEQ-0060,Sin Nombre (SNV),SN(180060,2018-11-17,Canada,Peromyscus maniculatus,S,1680,95.21,Four Corners,"Gn-S87N, RdRp-H1654Y"
+SEQ-0061,Sin Nombre (SNV),SN(260061,2026-02-22,USA,Peromyscus maniculatus,S,1711,96.96,Eastern,RdRp-H1654Y
+SEQ-0062,Sin Nombre (SNV),SN(220062,2022-03-22,Canada,Peromyscus maniculatus,L,6509,95.71,Four Corners,None
+SEQ-0063,Sin Nombre (SNV),SN(180063,2018-08-19,USA,Peromyscus maniculatus,L,6516,95.41,Western,"Gn-A143V, N-T18I, Gn-S87N"
+SEQ-0064,Sin Nombre (SNV),SN(160064,2016-07-23,Canada,Peromyscus maniculatus,M,3639,97.84,Eastern,Gn-S87N
+SEQ-0065,Sin Nombre (SNV),SN(220065,2022-08-13,Canada,Peromyscus maniculatus,M,3637,95.38,Eastern,Gn-S87N
+SEQ-0066,Sin Nombre (SNV),SN(210066,2021-08-22,Canada,Peromyscus maniculatus,S,1685,97.9,Western,None
+SEQ-0067,Sin Nombre (SNV),SN(180067,2018-03-16,Canada,Peromyscus maniculatus,M,3651,97.87,Four Corners,Gc-V598L
+SEQ-0068,Sin Nombre (SNV),SN(170068,2017-11-28,Canada,Peromyscus maniculatus,S,1717,99.05,Eastern,"Gn-A143V, N-T18I, Gc-V598L"
+SEQ-0069,Sin Nombre (SNV),SN(110069,2011-06-01,Canada,Peromyscus maniculatus,S,1712,95.03,Western,"Gc-V598L, RdRp-H1654Y"
+SEQ-0070,Sin Nombre (SNV),SN(130070,2013-10-05,USA,Peromyscus maniculatus,L,6552,96.51,Eastern,Gn-S87N
+SEQ-0071,Sin Nombre (SNV),SN(110071,2011-06-25,Canada,Peromyscus maniculatus,L,6534,97.05,Eastern,Gc-V598L
+SEQ-0072,Sin Nombre (SNV),SN(240072,2024-02-01,USA,Peromyscus maniculatus,M,3646,96.6,Western,"Gn-A143V, N-T18I"
+SEQ-0073,Sin Nombre (SNV),SN(120073,2012-03-08,USA,Peromyscus maniculatus,S,1706,97.82,Four Corners,Gn-S87N
+SEQ-0074,Sin Nombre (SNV),SN(260074,2026-07-20,USA,Peromyscus maniculatus,L,6521,97.01,Western,None
+SEQ-0075,Sin Nombre (SNV),SN(160075,2016-01-19,Canada,Peromyscus maniculatus,L,6504,96.67,Eastern,"Gc-V598L, Gn-S87N, Gn-A143V"
+SEQ-0076,Sin Nombre (SNV),SN(210076,2021-05-24,USA,Peromyscus maniculatus,S,1696,95.82,Western,"Gn-S87N, Gn-A143V, RdRp-H1654Y"
+SEQ-0077,Sin Nombre (SNV),SN(230077,2023-03-10,USA,Peromyscus maniculatus,S,1697,98.07,Eastern,N-T18I
+SEQ-0078,Sin Nombre (SNV),SN(170078,2017-03-24,Canada,Peromyscus maniculatus,L,6551,95.75,Eastern,"N-T18I, RdRp-H1654Y, Gc-V598L"
+SEQ-0079,Sin Nombre (SNV),SN(160079,2016-11-04,USA,Peromyscus maniculatus,S,1708,98.54,Eastern,Gn-S87N
+SEQ-0080,Sin Nombre (SNV),SN(170080,2017-06-23,USA,Peromyscus maniculatus,S,1700,97.11,Western,RdRp-H1654Y
+SEQ-0081,Hantaan (HTNV),H(220081,2022-08-28,China,Apodemus agrarius,M,3647,94.26,Asian,N-R33K
+SEQ-0082,Hantaan (HTNV),H(150082,2015-04-17,South Korea,Apodemus agrarius,L,6546,94.2,Asian,RdRp-L1738P
+SEQ-0083,Hantaan (HTNV),H(180083,2018-11-25,South Korea,Apodemus agrarius,M,3618,96.81,Korean,Gn-N74D
+SEQ-0084,Hantaan (HTNV),H(230084,2023-05-07,South Korea,Apodemus agrarius,M,3613,97.28,Korean,"RdRp-L1738P, Gn-N74D"
+SEQ-0085,Hantaan (HTNV),H(110085,2011-10-10,South Korea,Apodemus agrarius,L,6566,94.49,Korean,"Gc-A611T, N-R33K"
+SEQ-0086,Hantaan (HTNV),H(260086,2026-06-02,China,Apodemus agrarius,S,1708,94.27,Korean,"N-R33K, RdRp-L1738P"
+SEQ-0087,Hantaan (HTNV),H(260087,2026-01-09,China,Apodemus agrarius,M,3631,96.86,Asian,"RdRp-L1738P, Gc-A611T"
+SEQ-0088,Hantaan (HTNV),H(240088,2024-10-03,South Korea,Apodemus agrarius,L,6571,95.86,Asian,"N-R33K, Gn-N74D"
+SEQ-0089,Hantaan (HTNV),H(150089,2015-11-08,China,Apodemus agrarius,S,1724,95.03,Korean,RdRp-L1738P
+SEQ-0090,Hantaan (HTNV),H(260090,2026-09-05,South Korea,Apodemus agrarius,S,1728,95.49,Asian,Gc-A611T
+SEQ-0091,Hantaan (HTNV),H(240091,2024-01-16,China,Apodemus agrarius,S,1695,98.51,Asian,N-R33K
+SEQ-0092,Hantaan (HTNV),H(240092,2024-01-04,China,Apodemus agrarius,L,6578,98.57,Korean,N-R33K
+SEQ-0093,Hantaan (HTNV),H(170093,2017-05-05,China,Apodemus agrarius,S,1700,97.44,Asian,"Gn-N74D, Gc-A611T"
+SEQ-0094,Hantaan (HTNV),H(200094,2020-10-23,China,Apodemus agrarius,S,1707,95.2,Asian,RdRp-L1738P
+SEQ-0095,Hantaan (HTNV),H(240095,2024-12-06,South Korea,Apodemus agrarius,S,1712,94.58,Asian,None
+SEQ-0096,Hantaan (HTNV),H(100096,2010-08-24,China,Apodemus agrarius,L,6561,98.95,Asian,"Gn-N74D, N-R33K, Gc-A611T"
+SEQ-0097,Hantaan (HTNV),H(260097,2026-05-12,China,Apodemus agrarius,M,3638,97.38,Asian,None
+SEQ-0098,Hantaan (HTNV),H(160098,2016-06-02,China,Apodemus agrarius,M,3620,97.2,Korean,Gn-N74D
+SEQ-0099,Hantaan (HTNV),H(180099,2018-01-16,China,Apodemus agrarius,M,3628,99.09,Korean,None
+SEQ-0100,Hantaan (HTNV),H(130100,2013-02-02,South Korea,Apodemus agrarius,S,1718,98.42,Korean,RdRp-L1738P
+SEQ-0101,Hantaan (HTNV),H(140101,2014-05-07,South Korea,Apodemus agrarius,L,6531,94.59,Korean,"N-R33K, Gn-N74D"
+SEQ-0102,Hantaan (HTNV),H(190102,2019-02-20,South Korea,Apodemus agrarius,S,1712,94.96,Korean,RdRp-L1738P
+SEQ-0103,Hantaan (HTNV),H(260103,2026-04-20,South Korea,Apodemus agrarius,M,3656,98.06,Asian,"RdRp-L1738P, Gn-N74D"
+SEQ-0104,Hantaan (HTNV),H(140104,2014-04-04,China,Apodemus agrarius,M,3640,94.42,Korean,Gc-A611T
+SEQ-0105,Hantaan (HTNV),H(180105,2018-09-20,South Korea,Apodemus agrarius,S,1690,98.42,Asian,"N-R33K, RdRp-L1738P"
+SEQ-0106,Seoul (SEOV),S(170106,2017-03-25,South Korea,Rattus norvegicus,S,1797,97.96,Lineage 2,"RdRp-K1698R, N-S27A"
+SEQ-0107,Seoul (SEOV),S(200107,2020-09-28,USA,Rattus norvegicus,S,1799,96.67,Lineage 1,RdRp-K1698R
+SEQ-0108,Seoul (SEOV),S(220108,2022-08-05,United Kingdom,Rattus norvegicus,M,3643,99.53,Lineage 2,"Gn-D92E, RdRp-K1698R"
+SEQ-0109,Seoul (SEOV),S(240109,2024-11-05,South Korea,Rattus norvegicus,L,6545,98.49,Lineage 2,"Gc-V589I, Gn-D92E"
+SEQ-0110,Seoul (SEOV),S(240110,2024-05-07,United Kingdom,Rattus norvegicus,M,3655,98.21,Lineage 1,N-S27A
+SEQ-0111,Seoul (SEOV),S(230111,2023-10-24,China,Rattus norvegicus,S,1780,99.79,Lineage 1,Gc-V589I
+SEQ-0112,Seoul (SEOV),S(260112,2026-06-16,South Korea,Rattus norvegicus,S,1797,99.72,Lineage 1,"Gn-D92E, N-S27A"
+SEQ-0113,Seoul (SEOV),S(160113,2016-01-11,USA,Rattus norvegicus,M,3669,96.27,Lineage 3,"Gc-V589I, N-S27A"
+SEQ-0114,Seoul (SEOV),S(240114,2024-02-08,USA,Rattus norvegicus,S,1789,97.2,Lineage 2,Gn-D92E
+SEQ-0115,Seoul (SEOV),S(240115,2024-01-12,USA,Rattus norvegicus,L,6524,95.02,Lineage 2,RdRp-K1698R
+SEQ-0116,Seoul (SEOV),S(210116,2021-08-05,USA,Rattus norvegicus,M,3657,96.34,Lineage 1,Gc-V589I
+SEQ-0117,Seoul (SEOV),S(260117,2026-07-02,China,Rattus norvegicus,M,3661,98.94,Lineage 3,"RdRp-K1698R, N-S27A"
+SEQ-0118,Seoul (SEOV),S(250118,2025-05-13,China,Rattus norvegicus,S,1788,97.92,Lineage 2,RdRp-K1698R
+SEQ-0119,Seoul (SEOV),S(260119,2026-01-10,United Kingdom,Rattus norvegicus,L,6566,99.14,Lineage 3,RdRp-K1698R
+SEQ-0120,Seoul (SEOV),S(180120,2018-04-25,United Kingdom,Rattus norvegicus,L,6548,98.62,Lineage 3,N-S27A
+SEQ-0121,Seoul (SEOV),S(230121,2023-10-05,China,Rattus norvegicus,S,1799,97.03,Lineage 3,Gn-D92E
+SEQ-0122,Seoul (SEOV),S(250122,2025-08-08,China,Rattus norvegicus,L,6562,98.99,Lineage 3,RdRp-K1698R
+SEQ-0123,Seoul (SEOV),S(190123,2019-01-08,USA,Rattus norvegicus,M,3674,99.11,Lineage 3,None
+SEQ-0124,Seoul (SEOV),S(240124,2024-05-22,USA,Rattus norvegicus,S,1789,96.2,Lineage 2,Gn-D92E
+SEQ-0125,Seoul (SEOV),S(120125,2012-07-24,United Kingdom,Rattus norvegicus,M,3675,99.24,Lineage 2,"N-S27A, Gn-D92E"
+SEQ-0126,Puumala (PUUV),P(120126,2012-08-15,Germany,Clethrionomys glareolus,M,3662,97.41,Finnish,"Gc-A633V, Gn-T82S"
+SEQ-0127,Puumala (PUUV),P(140127,2014-07-17,Finland,Clethrionomys glareolus,S,1830,94.64,Alpe-Adrian,"N-K24R, Gn-E119D"
+SEQ-0128,Puumala (PUUV),P(210128,2021-05-20,Sweden,Clethrionomys glareolus,L,6540,96.1,Alpe-Adrian,N-K24R
+SEQ-0129,Puumala (PUUV),P(230129,2023-05-09,Finland,Clethrionomys glareolus,L,6554,98.35,Russian,None
+SEQ-0130,Puumala (PUUV),P(250130,2025-03-27,Belgium,Clethrionomys glareolus,S,1862,94.18,Alpe-Adrian,N-K24R
+SEQ-0131,Puumala (PUUV),P(220131,2022-07-12,Russia,Clethrionomys glareolus,S,1862,93.13,Alpe-Adrian,"Gc-A633V, Gn-E119D"
+SEQ-0132,Puumala (PUUV),P(110132,2011-07-26,Germany,Clethrionomys glareolus,M,3643,94.45,Finnish,Gn-T82S
+SEQ-0133,Puumala (PUUV),P(110133,2011-06-03,France,Clethrionomys glareolus,S,1831,94.9,Finnish,None
+SEQ-0134,Puumala (PUUV),P(140134,2014-06-06,Russia,Clethrionomys glareolus,S,1845,96.39,Central European,"Gc-A633V, Gn-E119D"
+SEQ-0135,Puumala (PUUV),P(240135,2024-12-28,Russia,Clethrionomys glareolus,M,3632,95.41,Russian,N-K24R
+SEQ-0136,Puumala (PUUV),P(220136,2022-01-21,Russia,Clethrionomys glareolus,M,3661,97.23,Russian,"Gc-A633V, N-K24R"
+SEQ-0137,Puumala (PUUV),P(100137,2010-08-10,Belgium,Clethrionomys glareolus,M,3677,93.91,Central European,"Gn-E119D, N-K24R"
+SEQ-0138,Puumala (PUUV),P(210138,2021-03-11,Russia,Clethrionomys glareolus,S,1868,94.98,Alpe-Adrian,"Gn-E119D, Gn-T82S"
+SEQ-0139,Puumala (PUUV),P(150139,2015-11-13,Russia,Clethrionomys glareolus,S,1867,93.94,Central European,N-K24R
+SEQ-0140,Puumala (PUUV),P(150140,2015-04-01,Germany,Clethrionomys glareolus,S,1868,97.57,Alpe-Adrian,"Gn-T82S, Gc-A633V, N-K24R"
+SEQ-0141,Puumala (PUUV),P(240141,2024-10-15,Russia,Clethrionomys glareolus,S,1850,96.38,Alpe-Adrian,None
+SEQ-0142,Puumala (PUUV),P(150142,2015-01-14,Russia,Clethrionomys glareolus,M,3639,94.58,Central European,None
+SEQ-0143,Puumala (PUUV),P(150143,2015-01-03,Sweden,Clethrionomys glareolus,L,6580,93.3,Finnish,Gc-A633V
+SEQ-0144,Puumala (PUUV),P(250144,2025-07-15,Belgium,Clethrionomys glareolus,M,3668,94.66,Central European,"Gn-E119D, Gn-T82S"
+SEQ-0145,Puumala (PUUV),P(130145,2013-04-05,Belgium,Clethrionomys glareolus,M,3655,94.92,Alpe-Adrian,"N-K24R, Gc-A633V"
+SEQ-0146,Puumala (PUUV),P(130146,2013-03-23,Finland,Clethrionomys glareolus,L,6547,97.66,Finnish,"RdRp-M1712I, N-K24R"
+SEQ-0147,Puumala (PUUV),P(260147,2026-01-21,Germany,Clethrionomys glareolus,S,1853,98.34,Alpe-Adrian,Gc-A633V
+SEQ-0148,Puumala (PUUV),P(230148,2023-02-10,Russia,Clethrionomys glareolus,M,3671,93.59,Alpe-Adrian,None
+SEQ-0149,Puumala (PUUV),P(160149,2016-07-01,France,Clethrionomys glareolus,L,6557,95.76,Central European,None
+SEQ-0150,Puumala (PUUV),P(240150,2024-08-10,France,Clethrionomys glareolus,M,3640,96.21,Central European,None
+SEQ-0151,Puumala (PUUV),P(240151,2024-10-22,France,Clethrionomys glareolus,M,3636,98.58,Finnish,"N-K24R, RdRp-M1712I, Gn-E119D"
+SEQ-0152,Puumala (PUUV),P(130152,2013-06-10,Germany,Clethrionomys glareolus,L,6589,94.63,Finnish,N-K24R
+SEQ-0153,Puumala (PUUV),P(210153,2021-01-22,Finland,Clethrionomys glareolus,M,3674,98.14,Finnish,"N-K24R, Gn-T82S"
+SEQ-0154,Puumala (PUUV),P(220154,2022-06-03,Russia,Clethrionomys glareolus,S,1852,93.17,Alpe-Adrian,None
+SEQ-0155,Puumala (PUUV),P(230155,2023-03-11,France,Clethrionomys glareolus,S,1835,98.48,Alpe-Adrian,"Gn-E119D, Gn-T82S"
+SEQ-0156,Puumala (PUUV),P(130156,2013-06-14,Sweden,Clethrionomys glareolus,L,6598,96.93,Central European,"Gn-E119D, Gc-A633V"
+SEQ-0157,Puumala (PUUV),P(250157,2025-10-13,Germany,Clethrionomys glareolus,S,1864,94.37,Russian,"Gn-T82S, Gn-E119D"
+SEQ-0158,Puumala (PUUV),P(130158,2013-09-03,Germany,Clethrionomys glareolus,S,1859,94.31,Central European,None
+SEQ-0159,Puumala (PUUV),P(240159,2024-01-21,France,Clethrionomys glareolus,M,3636,96.07,Alpe-Adrian,"RdRp-M1712I, N-K24R"
+SEQ-0160,Puumala (PUUV),P(250160,2025-12-10,France,Clethrionomys glareolus,L,6598,98.75,Finnish,N-K24R
+SEQ-0161,Puumala (PUUV),P(120161,2012-09-12,Belgium,Clethrionomys glareolus,M,3639,93.87,Alpe-Adrian,Gn-T82S
+SEQ-0162,Puumala (PUUV),P(260162,2026-08-08,Germany,Clethrionomys glareolus,M,3649,99.23,Central European,"Gc-A633V, RdRp-M1712I, N-K24R"
+SEQ-0163,Puumala (PUUV),P(130163,2013-02-25,Sweden,Clethrionomys glareolus,M,3659,95.61,Russian,"Gn-E119D, Gc-A633V, N-K24R"
+SEQ-0164,Puumala (PUUV),P(240164,2024-09-23,Germany,Clethrionomys glareolus,S,1866,97.23,Russian,"RdRp-M1712I, Gn-T82S, N-K24R"
+SEQ-0165,Puumala (PUUV),P(190165,2019-08-26,Sweden,Clethrionomys glareolus,M,3677,98.91,Central European,None
+SEQ-0166,Dobrava-Belgrade (DOBV),D(120166,2012-10-05,Slovenia,Apodemus flavicollis,S,1671,97.85,Dobrava,"Gn-S78T, RdRp-K1725R, Gc-I602V"
+SEQ-0167,Dobrava-Belgrade (DOBV),D(250167,2025-10-19,Greece,Apodemus flavicollis,M,3610,97.68,Kurkino,N-D31E
+SEQ-0168,Dobrava-Belgrade (DOBV),D(260168,2026-06-18,Slovenia,Apodemus flavicollis,M,3645,96.73,Dobrava,RdRp-K1725R
+SEQ-0169,Dobrava-Belgrade (DOBV),D(260169,2026-10-17,Greece,Apodemus flavicollis,M,3642,98.05,Saaremaa,"N-D31E, Gc-I602V, Gn-S78T"
+SEQ-0170,Dobrava-Belgrade (DOBV),D(130170,2013-01-12,Slovenia,Apodemus flavicollis,L,6513,95.24,Sochi,Gc-I602V
+SEQ-0171,Dobrava-Belgrade (DOBV),D(240171,2024-05-15,Croatia,Apodemus flavicollis,L,6536,94.32,Dobrava,N-D31E
+SEQ-0172,Dobrava-Belgrade (DOBV),D(100172,2010-01-01,Croatia,Apodemus flavicollis,S,1682,98.72,Sochi,None
+SEQ-0173,Dobrava-Belgrade (DOBV),D(160173,2016-03-16,Greece,Apodemus flavicollis,M,3611,93.46,Saaremaa,None
+SEQ-0174,Dobrava-Belgrade (DOBV),D(220174,2022-07-23,Greece,Apodemus flavicollis,S,1673,93.63,Sochi,N-D31E
+SEQ-0175,Dobrava-Belgrade (DOBV),D(210175,2021-07-09,Slovenia,Apodemus flavicollis,L,6548,94.09,Sochi,RdRp-K1725R
+SEQ-0176,Dobrava-Belgrade (DOBV),D(260176,2026-03-14,Greece,Apodemus flavicollis,L,6529,92.92,Saaremaa,RdRp-K1725R
+SEQ-0177,Dobrava-Belgrade (DOBV),D(210177,2021-02-23,Slovenia,Apodemus flavicollis,S,1684,94.83,Sochi,"Gn-S78T, Gc-I602V"
+SEQ-0178,Dobrava-Belgrade (DOBV),D(240178,2024-02-28,Croatia,Apodemus flavicollis,M,3625,98.59,Kurkino,Gn-S78T
+SEQ-0179,Dobrava-Belgrade (DOBV),D(260179,2026-03-12,Greece,Apodemus flavicollis,S,1702,96.43,Saaremaa,None
+SEQ-0180,Dobrava-Belgrade (DOBV),D(220180,2022-05-07,Slovenia,Apodemus flavicollis,L,6524,95.16,Saaremaa,None
+SEQ-0181,Dobrava-Belgrade (DOBV),D(230181,2023-02-17,Croatia,Apodemus flavicollis,M,3636,96.47,Saaremaa,"N-D31E, RdRp-K1725R"
+SEQ-0182,Dobrava-Belgrade (DOBV),D(240182,2024-07-13,Slovenia,Apodemus flavicollis,M,3638,94.36,Saaremaa,None
+SEQ-0183,Dobrava-Belgrade (DOBV),D(260183,2026-03-22,Slovenia,Apodemus flavicollis,L,6549,92.03,Dobrava,Gc-I602V
+SEQ-0184,Dobrava-Belgrade (DOBV),D(250184,2025-12-07,Croatia,Apodemus flavicollis,M,3612,96.01,Kurkino,Gc-I602V
+SEQ-0185,Dobrava-Belgrade (DOBV),D(240185,2024-11-16,Croatia,Apodemus flavicollis,L,6520,93.24,Sochi,"N-D31E, Gn-S78T, Gc-I602V"
+SEQ-0186,Choclo (CHOV),C(230186,2023-12-09,Costa Rica,Oligoryzomys fulvescens,S,1723,96.2,Atlantic,Gc-L615V
+SEQ-0187,Choclo (CHOV),C(240187,2024-10-05,Panama,Oligoryzomys fulvescens,S,1720,97.57,Pacific,N-R29K
+SEQ-0188,Choclo (CHOV),C(260188,2026-11-15,Panama,Oligoryzomys fulvescens,M,3615,97.83,Atlantic,Gn-A91T
+SEQ-0189,Choclo (CHOV),C(250189,2025-11-18,Panama,Oligoryzomys fulvescens,S,1725,98.12,Atlantic,"Gc-L615V, N-R29K, Gn-A91T"
+SEQ-0190,Choclo (CHOV),C(140190,2014-10-12,Panama,Oligoryzomys fulvescens,S,1726,97.58,Pacific,Gn-A91T
+SEQ-0191,Choclo (CHOV),C(140191,2014-07-08,Panama,Oligoryzomys fulvescens,L,6519,99.15,Pacific,None
+SEQ-0192,Choclo (CHOV),C(120192,2012-02-28,Panama,Oligoryzomys fulvescens,L,6519,98.94,Pacific,"Gc-L615V, N-R29K"
+SEQ-0193,Choclo (CHOV),C(190193,2019-05-09,Costa Rica,Oligoryzomys fulvescens,L,6526,96.21,Pacific,Gc-L615V
+SEQ-0194,Choclo (CHOV),C(260194,2026-06-17,Panama,Oligoryzomys fulvescens,S,1735,97.83,Atlantic,"Gc-L615V, Gn-A91T"
+SEQ-0195,Choclo (CHOV),C(150195,2015-12-13,Panama,Oligoryzomys fulvescens,M,3639,97.76,Atlantic,"Gc-L615V, N-R29K, Gn-A91T"
+SEQ-0196,Choclo (CHOV),C(240196,2024-03-19,Panama,Oligoryzomys fulvescens,M,3618,99.45,Atlantic,Gc-L615V
+SEQ-0197,Choclo (CHOV),C(240197,2024-01-10,Costa Rica,Oligoryzomys fulvescens,L,6533,97.67,Pacific,None
+SEQ-0198,Choclo (CHOV),C(200198,2020-06-27,Panama,Oligoryzomys fulvescens,L,6534,96.7,Atlantic,Gc-L615V
+SEQ-0199,Choclo (CHOV),C(120199,2012-02-25,Costa Rica,Oligoryzomys fulvescens,L,6519,96.48,Atlantic,"N-R29K, Gc-L615V"
+SEQ-0200,Choclo (CHOV),C(140200,2014-07-02,Costa Rica,Oligoryzomys fulvescens,M,3637,97.16,Atlantic,"Gc-L615V, N-R29K, Gn-A91T"
