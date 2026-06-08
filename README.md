@@ -152,6 +152,42 @@ The train/test split does not use a fixed random seed in all locations — set `
  
 ---
  
+## Running the Demo
+ 
+The demo is a Streamlit app (`app.py`) that loads a serialized model and lets you enter patient information to get a live mortality risk prediction with SHAP feature explanations.
+ 
+### 1. Run the notebook first
+ 
+The demo requires a trained model. Open `final_project.ipynb` and run all cells top to bottom. Once training is complete, all required variables (`calibrated_lgbm`, `thresh_f2_lgbm`, `X_train`) will exist in memory.
+ 
+### 2. Generate model.pkl
+ 
+Run the final cell in the notebook to generate the model.pkl, a message stating "Saved model.pkl" will be printed, affirming that the download went through.
+ 
+### 3. Install demo dependencies
+ 
+Open a terminal in your project folder (in Jupyter: **File → New → Terminal**) and run:
+ 
+```bash
+pip install -r requirements.txt
+```
+ 
+All of these are likely already installed from running the notebook. `streamlit` is the only new one.
+ 
+### 4. Launch the app
+ 
+```bash
+streamlit run app.py
+```
+ 
+Your browser will open automatically to `http://localhost:8501`. If it doesn't, navigate there manually.
+ 
+Fill in patient details on the left panel and click **Predict Mortality Risk**. The right panel shows the risk percentage, color-coded risk tier, a SHAP waterfall of the top feature contributions for that specific patient, and the binary verdict at the optimized threshold.
+ 
+To stop the app, press `Ctrl+C` in the terminal.
+ 
+---
+ 
 ## Authors
  
 Sweekrit Bhatnagar (`sbhatnagar@ucsd.edu`) and Sadhana Tadepalli (`satadepalli@ucsd.edu`)  
