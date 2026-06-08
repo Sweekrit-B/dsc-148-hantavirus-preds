@@ -35,7 +35,7 @@ Download the two CSV files from Kaggle and place them in `hantavirus_data/` befo
 ### Prerequisites
  
 - Python **3.10**
-- Conda (recommended) or virtualenv
+- Conda or virtualenv
 ### 1. Create and activate the environment
  
 ```bash
