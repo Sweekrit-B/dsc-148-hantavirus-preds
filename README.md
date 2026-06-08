@@ -1,4 +1,4 @@
-# Hantavirus Mortality Prediction — DSC 148 Final Project
+# Hantavirus Mortality Prediction 
  
 Binary classification models for predicting patient mortality from Hantavirus infection, combining clinical, epidemiological, environmental, and socioeconomic data. Models evaluated include Logistic Regression, Random Forest, XGBoost, and LightGBM.
  
