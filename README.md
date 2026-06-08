@@ -22,7 +22,7 @@ project/
 | Source | What it provides | How it's accessed |
 |---|---|---|
 | [Kaggle — Hantavirus Andes Virus Global Epidemiology Dataset](https://www.kaggle.com/datasets/zkskhurram/hantavirus-andes-virus-global-epidemiology) | `hantavirus_clinical.csv` and `hantavirus_country_yearly.csv` | Manual download |
-| [Open-Meteo Archive API](https://archive-api.open-meteo.com) | Average temperature and precipitation per country | `requests` (called automatically in notebook) |
+| [Open-Meteo Archive API](https://open-meteo.com/) | Average temperature and precipitation per country | `requests` (called automatically in notebook) |
 | [World Bank — World Development Indicators](https://databank.worldbank.org/source/world-development-indicators) | Rural/urban population %, population density, GNI per capita, life expectancy | `wbgapi` (called automatically in notebook) |
 | [REST Countries API](https://restcountries.com) | Latitude/longitude coordinates for ISO3 country codes | `requests` (called automatically in notebook) |
  
